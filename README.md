@@ -1,2 +1,2 @@
-# study-projects
+# learning-projects
 Repository for study projects
