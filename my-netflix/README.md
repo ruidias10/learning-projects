@@ -2,13 +2,12 @@
 My Netflix is the School Project.
 
 ## Generic Info
-It was used Node.js, React, MongoDB, Vagrant (VM Ubuntu) and Nginx.<br>
-All images are in the data folder. 
+It was used Node.js, React, MongoDB, Vagrant (VM Ubuntu) and Nginx.
 
 ### Vagrant Provision
 ##### Start Vagrant
 ```shell
-$ cd YOUR_PATH/react-final-project/
+$ cd YOUR_PATH/my-netflix/
 $ vagrant up
 ```
 
@@ -34,7 +33,7 @@ $ npm run start-dev
 ### APP
 ##### Start React App
 ```shell
-$ cd YOUR_PATH/react-final-project/www/app
+$ cd YOUR_PATH/my-netflix/www/app
 $ npm install
 $ npm start
 ```
